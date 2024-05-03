@@ -1,0 +1,41 @@
+File | Time | Result | Ackermann
+
+foobar0.txt | 0m0,054s | unsat | Yes
+foobar0.txt | 0m0,043s | unsat | No
+
+foobar1.txt | 0m0,080s | unsat | Yes
+foobar1.txt | 0m0,074s | unsat | No
+
+foobar10.txt | 0m8,671s | unsat | Yes
+foobar10.txt | 0m8,419s | unsat | No
+
+foobar11.txt | 0m57,868s | unsat | Yes
+foobar11.txt | 0m56,906s | unsat | No
+
+foobar12.txt | 4m54,568s | unsat | Yes
+foobar12.txt | 3m17,652s | unsat | No
+
+foobar2.txt | 0m0,071s | unsat | Yes
+foobar2.txt | 0m0,067s | unsat | No
+
+foobar3.txt | 0m0,097s | unsat | Yes
+foobar3.txt | 0m0,096s | unsat | No
+
+foobar4.txt | 0m0,156s | unsat | Yes
+foobar4.txt | 0m0,164s | unsat | No
+
+foobar5.txt | 0m0,264s | unsat | Yes
+foobar5.txt | 0m0,298s | unsat | No
+
+foobar6.txt | 0m0,438s | unsat | Yes
+foobar6.txt | 0m0,378s | unsat | No
+
+foobar7.txt | 0m0,702s | unsat | Yes
+foobar7.txt | 0m0,729s | unsat | No
+
+foobar8.txt | 0m0,915s | unsat | Yes
+foobar8.txt | 0m0,937s | unsat | No
+
+foobar9.txt | 0m1,873s | unsat | Yes
+foobar9.txt | 0m1,823s | unsat | No
+
