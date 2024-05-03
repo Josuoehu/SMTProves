@@ -1,37 +1,38 @@
-File | Time | Result
+File | Time | Result | Ackermann
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.0 | 0m0,214s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.0 | 0m0,050s | unsat
+foobar.0 | 0m0,185s | unsat | Yes
+foobar.0 | 0m0,027s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.1 | 0m0,163s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.1 | 0m0,144s | unsat
+foobar.1 | 0m0,090s | unsat | Yes
+foobar.1 | 0m0,078s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.10 | 0m40,213s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.10 | 0m26,802s | unsat
+foobar.10 | 0m27,179s | unsat | Yes
+foobar.10 | 0m27,059s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.11 | 1m8,515s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.11 | 1m5,805s | unsat
+foobar.11 | 1m5,112s | unsat | Yes
+foobar.11 | 1m7,225s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.2 | 0m0,327s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.2 | 0m0,156s | unsat
+foobar.2 | 0m0,316s | unsat | Yes
+foobar.2 | 0m0,161s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.3 | 0m0,419s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.3 | 0m0,402s | unsat
+foobar.3 | 0m0,422s | unsat | Yes
+foobar.3 | 0m0,400s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.4 | 0m0,588s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.4 | 0m0,577s | unsat
+foobar.4 | 0m0,604s | unsat | Yes
+foobar.4 | 0m0,577s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.5 | 0m0,856s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.5 | 0m0,845s | unsat
+foobar.5 | 0m0,875s | unsat | Yes
+foobar.5 | 0m0,831s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.6 | 0m1,933s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.6 | 0m1,980s | unsat
+foobar.6 | 0m1,937s | unsat | Yes
+foobar.6 | 0m1,959s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.7 | 0m2,994s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.7 | 0m2,677s | unsat
+foobar.7 | 0m2,880s | unsat | Yes
+foobar.7 | 0m2,660s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.8 | 0m5,759s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.8 | 0m5,399s | unsat
+foobar.8 | 0m5,545s | unsat | Yes
+foobar.8 | 0m5,329s | unsat | No
 
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.9 | 0m10,769s | unsat
-/home/josu/Documents/PhD/SMT/petrobras/D3/foobar.txt.9 | 0m10,222s | unsat
+foobar.9 | 0m10,439s | unsat | Yes
+foobar.9 | 0m10,319s | unsat | No
+
