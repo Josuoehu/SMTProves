@@ -1,0 +1,41 @@
+File | Time | Result
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.0 | 0m0,049s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.0 | 0m0,029s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.1 | 0m0,091s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.1 | 0m0,082s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.10 | 0m14,660s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.10 | 0m14,472s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.11 | 0m51,529s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.11 | 0m49,926s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.12 | 4m46,720s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.12 | 4m39,711s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.2 | 0m0,205s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.2 | 0m0,202s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.3 | 0m0,426s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.3 | 0m0,403s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.4 | 0m0,913s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.4 | 0m0,902s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.5 | 0m1,787s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.5 | 0m1,254s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.6 | 0m2,643s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.6 | 0m2,457s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.7 | 0m4,106s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.7 | 0m3,926s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.8 | 0m7,601s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.8 | 0m7,488s | unsat
+
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.9 | 0m12,990s | unsat
+/home/josu/Documents/PhD/SMT/petrobras/D4/foobar.txt.9 | 0m11,334s | unsat
+
