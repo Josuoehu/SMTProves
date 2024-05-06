@@ -1,0 +1,15 @@
+File	Result	Solver	Time	Ackermann
+/1/foobar.txt.0	0m0,174s	Z3	unsat	Yes
+/1/foobar.txt.0	0m0,168s	Z3	unsat	No
+/1/foobar.txt.0	0m0,322s	cvc5	unsat	Yes
+/1/foobar.txt.0	0m0,347s	cvc5	unsat	No
+/1/foobar.txt.0	0m0,210s	mathSAT	unsat	Yes
+/1/foobar.txt.0	0m0,208s	mathSAT	unsat	No
+
+/1/foobar.txt.1	0m0,314s	Z3	unsat	Yes
+/1/foobar.txt.1	0m0,277s	Z3	unsat	No
+/1/foobar.txt.1	0m0,508s	cvc5	unsat	Yes
+/1/foobar.txt.1	0m0,522s	cvc5	unsat	No
+/1/foobar.txt.1	0m0,324s	mathSAT	unsat	Yes
+/1/foobar.txt.1	0m0,329s	mathSAT	unsat	No
+
