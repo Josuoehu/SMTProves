@@ -5,7 +5,7 @@ cwd=$(pwd)
 cwd+="/${1}/"
 
 # Output table file
-OUTPUT_TABLE="output_table.txt"
+OUTPUT_TABLE="${1}_results.csv"
 
 # Function to execute a file and store its output in the table
 execute_file() {
@@ -17,42 +17,30 @@ execute_file() {
       if [ "$ack" = "0" ]; then
         # Execute with Z3
         local result=$( { time z3 "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="Yes"
       else
         #local output=$(time cvc5 --no-ackermann "$file")
         local result=$( { time z3 ackermannization.eager=false "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="No"
       fi
     elif [ "$solver" = "mathSAT" ]; then
       if [ "$ack" = "0" ]; then
       #local output=$(time cvc5 "$file")
         local result=$( { time mathsat "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="Yes"
       else
         #local output=$(time cvc5 --no-ackermann "$file")
         local result=$( { time mathsat -theory.euf.dyn_ack=0 "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="No"
       fi
     elif [ "$solver" = "cvc5" ]; then
       if [ "$ack" = "0" ]; then
         #local output=$(time cvc5 "$file")
         local result=$( { time cvc5 "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="Yes"
       else
         #local output=$(time cvc5 --no-ackermann "$file")
         local result=$( { time cvc5 --no-ackermann "$file"; } 2>&1 )
-        #local output=$(echo "$result" | grep real | awk '{print $2}')
-        #local time=$(echo "$result" | grep sat | awk '{print $1}')
         local ackermann="No"
       fi
     else
