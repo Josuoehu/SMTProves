@@ -1,0 +1,386 @@
+File	Time	Result	Ackermann	Solver
+/1/foobar.txt.0	0m0,028s	unsat	Yes	Z3
+/1/foobar.txt.0	0m0,015s	unsat	No	Z3
+/1/foobar.txt.0	0m0,005s	unsat	Yes	cvc5
+/1/foobar.txt.0	0m0,006s	unsat	No	cvc5
+/1/foobar.txt.0	0m0,009s	unsat	Yes	mathSAT
+/1/foobar.txt.0	0m0,012s	unsat	No	mathSAT
+
+/1/foobar.txt.1	0m0,041s	unsat	Yes	Z3
+/1/foobar.txt.1	0m0,027s	unsat	No	Z3
+/1/foobar.txt.1	0m0,013s	unsat	Yes	cvc5
+/1/foobar.txt.1	0m0,015s	unsat	No	cvc5
+/1/foobar.txt.1	0m0,009s	unsat	Yes	mathSAT
+/1/foobar.txt.1	0m0,010s	unsat	No	mathSAT
+
+/1/foobar.txt.10	0m0,429s	sat	Yes	Z3
+/1/foobar.txt.10	0m0,413s	sat	No	Z3
+/1/foobar.txt.10	0m1,201s	sat	Yes	cvc5
+/1/foobar.txt.10	0m1,255s	sat	No	cvc5
+/1/foobar.txt.10	0m1,487s	sat	Yes	mathSAT
+/1/foobar.txt.10	0m1,483s	sat	No	mathSAT
+
+/1/foobar.txt.2	0m0,033s	unsat	Yes	Z3
+/1/foobar.txt.2	0m0,020s	unsat	No	Z3
+/1/foobar.txt.2	0m0,017s	unsat	Yes	cvc5
+/1/foobar.txt.2	0m0,018s	unsat	No	cvc5
+/1/foobar.txt.2	0m0,009s	unsat	Yes	mathSAT
+/1/foobar.txt.2	0m0,013s	unsat	No	mathSAT
+
+/1/foobar.txt.3	0m0,060s	unsat	Yes	Z3
+/1/foobar.txt.3	0m0,026s	unsat	No	Z3
+/1/foobar.txt.3	0m0,036s	unsat	Yes	cvc5
+/1/foobar.txt.3	0m0,027s	unsat	No	cvc5
+/1/foobar.txt.3	0m0,015s	unsat	Yes	mathSAT
+/1/foobar.txt.3	0m0,016s	unsat	No	mathSAT
+
+/1/foobar.txt.4	0m0,050s	unsat	Yes	Z3
+/1/foobar.txt.4	0m0,029s	unsat	No	Z3
+/1/foobar.txt.4	0m0,071s	unsat	Yes	cvc5
+/1/foobar.txt.4	0m0,072s	unsat	No	cvc5
+/1/foobar.txt.4	0m0,028s	unsat	Yes	mathSAT
+/1/foobar.txt.4	0m0,029s	unsat	No	mathSAT
+
+/1/foobar.txt.5	0m0,070s	unsat	Yes	Z3
+/1/foobar.txt.5	0m0,049s	unsat	No	Z3
+/1/foobar.txt.5	0m0,119s	unsat	Yes	cvc5
+/1/foobar.txt.5	0m0,119s	unsat	No	cvc5
+/1/foobar.txt.5	0m0,092s	unsat	Yes	mathSAT
+/1/foobar.txt.5	0m0,092s	unsat	No	mathSAT
+
+/1/foobar.txt.6	0m0,081s	unsat	Yes	Z3
+/1/foobar.txt.6	0m0,072s	unsat	No	Z3
+/1/foobar.txt.6	0m0,266s	unsat	Yes	cvc5
+/1/foobar.txt.6	0m0,260s	unsat	No	cvc5
+/1/foobar.txt.6	0m0,153s	unsat	Yes	mathSAT
+/1/foobar.txt.6	0m0,152s	unsat	No	mathSAT
+
+/1/foobar.txt.7	0m0,113s	unsat	Yes	Z3
+/1/foobar.txt.7	0m0,098s	unsat	No	Z3
+/1/foobar.txt.7	0m0,508s	unsat	Yes	cvc5
+/1/foobar.txt.7	0m0,515s	unsat	No	cvc5
+/1/foobar.txt.7	0m0,273s	unsat	Yes	mathSAT
+/1/foobar.txt.7	0m0,272s	unsat	No	mathSAT
+
+/1/foobar.txt.8	0m0,282s	unsat	Yes	Z3
+/1/foobar.txt.8	0m0,273s	unsat	No	Z3
+/1/foobar.txt.8	0m1,082s	unsat	Yes	cvc5
+/1/foobar.txt.8	0m1,046s	unsat	No	cvc5
+/1/foobar.txt.8	0m0,375s	unsat	Yes	mathSAT
+/1/foobar.txt.8	0m0,377s	unsat	No	mathSAT
+
+/1/foobar.txt.9	0m0,500s	unsat	Yes	Z3
+/1/foobar.txt.9	0m0,332s	unsat	No	Z3
+/1/foobar.txt.9	0m2,069s	unsat	Yes	cvc5
+/1/foobar.txt.9	0m2,029s	unsat	No	cvc5
+/1/foobar.txt.9	0m0,793s	unsat	Yes	mathSAT
+/1/foobar.txt.9	0m0,801s	unsat	No	mathSAT
+
+/2/foobar.txt.0	0m0,192s	unsat	Yes	Z3
+/2/foobar.txt.0	0m0,027s	unsat	No	Z3
+/2/foobar.txt.0	0m0,007s	unsat	Yes	cvc5
+/2/foobar.txt.0	0m0,010s	unsat	No	cvc5
+/2/foobar.txt.0	0m0,007s	unsat	Yes	mathSAT
+/2/foobar.txt.0	0m0,005s	unsat	No	mathSAT
+
+/2/foobar.txt.1	0m0,045s	unsat	Yes	Z3
+/2/foobar.txt.1	0m0,021s	unsat	No	Z3
+/2/foobar.txt.1	0m0,009s	unsat	Yes	cvc5
+/2/foobar.txt.1	0m0,009s	unsat	No	cvc5
+/2/foobar.txt.1	0m0,005s	unsat	Yes	mathSAT
+/2/foobar.txt.1	0m0,006s	unsat	No	mathSAT
+
+/2/foobar.txt.10	0m0,509s	unsat	Yes	Z3
+/2/foobar.txt.10	0m0,479s	unsat	No	Z3
+/2/foobar.txt.10	0m5,243s	unsat	Yes	cvc5
+/2/foobar.txt.10	0m5,232s	unsat	No	cvc5
+/2/foobar.txt.10	0m5,493s	unsat	Yes	mathSAT
+/2/foobar.txt.10	0m5,443s	unsat	No	mathSAT
+
+/2/foobar.txt.11	0m4,566s	unsat	Yes	Z3
+/2/foobar.txt.11	0m4,530s	unsat	No	Z3
+/2/foobar.txt.11	0m8,010s	unsat	Yes	cvc5
+/2/foobar.txt.11	0m8,177s	unsat	No	cvc5
+/2/foobar.txt.11	0m11,204s	unsat	Yes	mathSAT
+/2/foobar.txt.11	0m11,283s	unsat	No	mathSAT
+
+/2/foobar.txt.12	0m8,474s	unsat	Yes	Z3
+/2/foobar.txt.12	0m8,445s	unsat	No	Z3
+/2/foobar.txt.12	0m35,732s	unsat	Yes	cvc5
+/2/foobar.txt.12	0m35,320s	unsat	No	cvc5
+/2/foobar.txt.12	0m16,558s	unsat	Yes	mathSAT
+/2/foobar.txt.12	0m16,535s	unsat	No	mathSAT
+
+/2/foobar.txt.13	0m27,970s	unsat	Yes	Z3
+/2/foobar.txt.13	0m27,996s	unsat	No	Z3
+/2/foobar.txt.13	1m2,703s	unsat	Yes	cvc5
+/2/foobar.txt.13	1m2,802s	unsat	No	cvc5
+/2/foobar.txt.13	1m8,008s	unsat	Yes	mathSAT
+/2/foobar.txt.13	1m8,155s	unsat	No	mathSAT
+
+/2/foobar.txt.2	0m0,182s	unsat	Yes	Z3
+/2/foobar.txt.2	0m0,019s	unsat	No	Z3
+/2/foobar.txt.2	0m0,017s	unsat	Yes	cvc5
+/2/foobar.txt.2	0m0,018s	unsat	No	cvc5
+/2/foobar.txt.2	0m0,009s	unsat	Yes	mathSAT
+/2/foobar.txt.2	0m0,010s	unsat	No	mathSAT
+
+/2/foobar.txt.3	0m0,055s	unsat	Yes	Z3
+/2/foobar.txt.3	0m0,029s	unsat	No	Z3
+/2/foobar.txt.3	0m0,025s	unsat	Yes	cvc5
+/2/foobar.txt.3	0m0,025s	unsat	No	cvc5
+/2/foobar.txt.3	0m0,014s	unsat	Yes	mathSAT
+/2/foobar.txt.3	0m0,018s	unsat	No	mathSAT
+
+/2/foobar.txt.4	0m0,053s	unsat	Yes	Z3
+/2/foobar.txt.4	0m0,027s	unsat	No	Z3
+/2/foobar.txt.4	0m0,047s	unsat	Yes	cvc5
+/2/foobar.txt.4	0m0,046s	unsat	No	cvc5
+/2/foobar.txt.4	0m0,018s	unsat	Yes	mathSAT
+/2/foobar.txt.4	0m0,018s	unsat	No	mathSAT
+
+/2/foobar.txt.5	0m0,048s	unsat	Yes	Z3
+/2/foobar.txt.5	0m0,037s	unsat	No	Z3
+/2/foobar.txt.5	0m0,072s	unsat	Yes	cvc5
+/2/foobar.txt.5	0m0,071s	unsat	No	cvc5
+/2/foobar.txt.5	0m0,039s	unsat	Yes	mathSAT
+/2/foobar.txt.5	0m0,042s	unsat	No	mathSAT
+
+/2/foobar.txt.6	0m0,083s	unsat	Yes	Z3
+/2/foobar.txt.6	0m0,052s	unsat	No	Z3
+/2/foobar.txt.6	0m0,200s	unsat	Yes	cvc5
+/2/foobar.txt.6	0m0,201s	unsat	No	cvc5
+/2/foobar.txt.6	0m0,102s	unsat	Yes	mathSAT
+/2/foobar.txt.6	0m0,102s	unsat	No	mathSAT
+
+/2/foobar.txt.7	0m0,129s	unsat	Yes	Z3
+/2/foobar.txt.7	0m0,118s	unsat	No	Z3
+/2/foobar.txt.7	0m0,684s	unsat	Yes	cvc5
+/2/foobar.txt.7	0m0,684s	unsat	No	cvc5
+/2/foobar.txt.7	0m0,250s	unsat	Yes	mathSAT
+/2/foobar.txt.7	0m0,251s	unsat	No	mathSAT
+
+/2/foobar.txt.8	0m0,388s	unsat	Yes	Z3
+/2/foobar.txt.8	0m0,223s	unsat	No	Z3
+/2/foobar.txt.8	0m0,960s	unsat	Yes	cvc5
+/2/foobar.txt.8	0m0,983s	unsat	No	cvc5
+/2/foobar.txt.8	0m1,477s	unsat	Yes	mathSAT
+/2/foobar.txt.8	0m1,485s	unsat	No	mathSAT
+
+/2/foobar.txt.9	0m0,636s	unsat	Yes	Z3
+/2/foobar.txt.9	0m0,462s	unsat	No	Z3
+/2/foobar.txt.9	0m2,178s	unsat	Yes	cvc5
+/2/foobar.txt.9	0m2,174s	unsat	No	cvc5
+/2/foobar.txt.9	0m1,932s	unsat	Yes	mathSAT
+/2/foobar.txt.9	0m1,946s	unsat	No	mathSAT
+
+/3/foobar.txt.0	0m0,028s	unsat	Yes	Z3
+/3/foobar.txt.0	0m0,016s	unsat	No	Z3
+/3/foobar.txt.0	0m0,007s	unsat	Yes	cvc5
+/3/foobar.txt.0	0m0,006s	unsat	No	cvc5
+/3/foobar.txt.0	0m0,007s	unsat	Yes	mathSAT
+/3/foobar.txt.0	0m0,009s	unsat	No	mathSAT
+
+/3/foobar.txt.1	0m0,040s	unsat	Yes	Z3
+/3/foobar.txt.1	0m0,021s	unsat	No	Z3
+/3/foobar.txt.1	0m0,014s	unsat	Yes	cvc5
+/3/foobar.txt.1	0m0,011s	unsat	No	cvc5
+/3/foobar.txt.1	0m0,006s	unsat	Yes	mathSAT
+/3/foobar.txt.1	0m0,011s	unsat	No	mathSAT
+
+/3/foobar.txt.10	0m0,905s	unsat	Yes	Z3
+/3/foobar.txt.10	0m0,856s	unsat	No	Z3
+/3/foobar.txt.10	0m5,831s	unsat	Yes	cvc5
+/3/foobar.txt.10	0m5,865s	unsat	No	cvc5
+/3/foobar.txt.10	0m1,523s	unsat	Yes	mathSAT
+/3/foobar.txt.10	0m1,526s	unsat	No	mathSAT
+
+/3/foobar.txt.11	0m4,596s	unsat	Yes	Z3
+/3/foobar.txt.11	0m4,474s	unsat	No	Z3
+/3/foobar.txt.11	0m14,101s	unsat	Yes	cvc5
+/3/foobar.txt.11	0m14,309s	unsat	No	cvc5
+/3/foobar.txt.11	0m13,143s	unsat	Yes	mathSAT
+/3/foobar.txt.11	0m13,200s	unsat	No	mathSAT
+
+/3/foobar.txt.12	0m15,519s	unsat	Yes	Z3
+/3/foobar.txt.12	0m15,664s	unsat	No	Z3
+/3/foobar.txt.12	0m21,505s	unsat	Yes	cvc5
+/3/foobar.txt.12	0m21,130s	unsat	No	cvc5
+/3/foobar.txt.12	0m34,607s	unsat	Yes	mathSAT
+/3/foobar.txt.12	0m34,267s	unsat	No	mathSAT
+
+/3/foobar.txt.13	0m11,412s	unsat	Yes	Z3
+/3/foobar.txt.13	0m11,224s	unsat	No	Z3
+/3/foobar.txt.13	0m46,955s	unsat	Yes	cvc5
+/3/foobar.txt.13	0m46,402s	unsat	No	cvc5
+/3/foobar.txt.13	3m17,795s	unsat	Yes	mathSAT
+/3/foobar.txt.13	3m17,308s	unsat	No	mathSAT
+
+/3/foobar.txt.14	0m16,731s	unsat	Yes	Z3
+/3/foobar.txt.14	0m16,469s	unsat	No	Z3
+/3/foobar.txt.14	1m7,051s	unsat	Yes	cvc5
+/3/foobar.txt.14	1m6,861s	unsat	No	cvc5
+/3/foobar.txt.14	4m40,264s	unsat	Yes	mathSAT
+/3/foobar.txt.14	4m41,227s	unsat	No	mathSAT
+
+/3/foobar.txt.2	0m0,203s	unsat	Yes	Z3
+/3/foobar.txt.2	0m0,023s	unsat	No	Z3
+/3/foobar.txt.2	0m0,020s	unsat	Yes	cvc5
+/3/foobar.txt.2	0m0,020s	unsat	No	cvc5
+/3/foobar.txt.2	0m0,009s	unsat	Yes	mathSAT
+/3/foobar.txt.2	0m0,011s	unsat	No	mathSAT
+
+/3/foobar.txt.3	0m0,038s	unsat	Yes	Z3
+/3/foobar.txt.3	0m0,025s	unsat	No	Z3
+/3/foobar.txt.3	0m0,032s	unsat	Yes	cvc5
+/3/foobar.txt.3	0m0,034s	unsat	No	cvc5
+/3/foobar.txt.3	0m0,018s	unsat	Yes	mathSAT
+/3/foobar.txt.3	0m0,024s	unsat	No	mathSAT
+
+/3/foobar.txt.4	0m0,042s	unsat	Yes	Z3
+/3/foobar.txt.4	0m0,028s	unsat	No	Z3
+/3/foobar.txt.4	0m0,053s	unsat	Yes	cvc5
+/3/foobar.txt.4	0m0,052s	unsat	No	cvc5
+/3/foobar.txt.4	0m0,024s	unsat	Yes	mathSAT
+/3/foobar.txt.4	0m0,026s	unsat	No	mathSAT
+
+/3/foobar.txt.5	0m0,065s	unsat	Yes	Z3
+/3/foobar.txt.5	0m0,035s	unsat	No	Z3
+/3/foobar.txt.5	0m0,075s	unsat	Yes	cvc5
+/3/foobar.txt.5	0m0,074s	unsat	No	cvc5
+/3/foobar.txt.5	0m0,047s	unsat	Yes	mathSAT
+/3/foobar.txt.5	0m0,049s	unsat	No	mathSAT
+
+/3/foobar.txt.6	0m0,063s	unsat	Yes	Z3
+/3/foobar.txt.6	0m0,052s	unsat	No	Z3
+/3/foobar.txt.6	0m0,205s	unsat	Yes	cvc5
+/3/foobar.txt.6	0m0,205s	unsat	No	cvc5
+/3/foobar.txt.6	0m0,061s	unsat	Yes	mathSAT
+/3/foobar.txt.6	0m0,061s	unsat	No	mathSAT
+
+/3/foobar.txt.7	0m0,093s	unsat	Yes	Z3
+/3/foobar.txt.7	0m0,084s	unsat	No	Z3
+/3/foobar.txt.7	0m0,259s	unsat	Yes	cvc5
+/3/foobar.txt.7	0m0,258s	unsat	No	cvc5
+/3/foobar.txt.7	0m0,124s	unsat	Yes	mathSAT
+/3/foobar.txt.7	0m0,123s	unsat	No	mathSAT
+
+/3/foobar.txt.8	0m0,242s	unsat	Yes	Z3
+/3/foobar.txt.8	0m0,230s	unsat	No	Z3
+/3/foobar.txt.8	0m0,718s	unsat	Yes	cvc5
+/3/foobar.txt.8	0m0,711s	unsat	No	cvc5
+/3/foobar.txt.8	0m0,415s	unsat	Yes	mathSAT
+/3/foobar.txt.8	0m0,421s	unsat	No	mathSAT
+
+/3/foobar.txt.9	0m0,536s	unsat	Yes	Z3
+/3/foobar.txt.9	0m0,525s	unsat	No	Z3
+/3/foobar.txt.9	0m4,618s	unsat	Yes	cvc5
+/3/foobar.txt.9	0m4,647s	unsat	No	cvc5
+/3/foobar.txt.9	0m0,963s	unsat	Yes	mathSAT
+/3/foobar.txt.9	0m0,993s	unsat	No	mathSAT
+
+/4/foobar.txt.0	0m0,038s	unsat	Yes	Z3
+/4/foobar.txt.0	0m0,019s	unsat	No	Z3
+/4/foobar.txt.0	0m0,006s	unsat	Yes	cvc5
+/4/foobar.txt.0	0m0,007s	unsat	No	cvc5
+/4/foobar.txt.0	0m0,006s	unsat	Yes	mathSAT
+/4/foobar.txt.0	0m0,006s	unsat	No	mathSAT
+
+/4/foobar.txt.1	0m0,047s	unsat	Yes	Z3
+/4/foobar.txt.1	0m0,023s	unsat	No	Z3
+/4/foobar.txt.1	0m0,019s	unsat	Yes	cvc5
+/4/foobar.txt.1	0m0,015s	unsat	No	cvc5
+/4/foobar.txt.1	0m0,009s	unsat	Yes	mathSAT
+/4/foobar.txt.1	0m0,009s	unsat	No	mathSAT
+
+/4/foobar.txt.10	0m1,080s	unsat	Yes	Z3
+/4/foobar.txt.10	0m1,042s	unsat	No	Z3
+/4/foobar.txt.10	0m18,676s	unsat	Yes	cvc5
+/4/foobar.txt.10	0m18,571s	unsat	No	cvc5
+/4/foobar.txt.10	0m1,495s	unsat	Yes	mathSAT
+/4/foobar.txt.10	0m1,488s	unsat	No	mathSAT
+
+/4/foobar.txt.11	0m1,348s	unsat	Yes	Z3
+/4/foobar.txt.11	0m1,184s	unsat	No	Z3
+/4/foobar.txt.11	0m16,657s	unsat	Yes	cvc5
+/4/foobar.txt.11	0m16,662s	unsat	No	cvc5
+/4/foobar.txt.11	0m8,927s	unsat	Yes	mathSAT
+/4/foobar.txt.11	0m8,923s	unsat	No	mathSAT
+
+/4/foobar.txt.12	0m2,836s	unsat	Yes	Z3
+/4/foobar.txt.12	0m2,648s	unsat	No	Z3
+/4/foobar.txt.12	0m33,000s	unsat	Yes	cvc5
+/4/foobar.txt.12	0m33,428s	unsat	No	cvc5
+/4/foobar.txt.12	0m20,816s	unsat	Yes	mathSAT
+/4/foobar.txt.12	0m20,851s	unsat	No	mathSAT
+
+/4/foobar.txt.13	0m32,968s	unsat	Yes	Z3
+/4/foobar.txt.13	0m32,718s	unsat	No	Z3
+/4/foobar.txt.13	1m39,781s	unsat	Yes	cvc5
+/4/foobar.txt.13	1m40,866s	unsat	No	cvc5
+/4/foobar.txt.13	0m55,217s	unsat	Yes	mathSAT
+/4/foobar.txt.13	0m55,235s	unsat	No	mathSAT
+
+/4/foobar.txt.14	0m40,708s	unsat	Yes	Z3
+/4/foobar.txt.14	0m41,515s	unsat	No	Z3
+/4/foobar.txt.14	4m44,854s	unsat	Yes	cvc5
+/4/foobar.txt.14	4m44,392s	unsat	No	cvc5
+/4/foobar.txt.14	3m12,817s	unsat	Yes	mathSAT
+/4/foobar.txt.14	3m16,838s	unsat	No	mathSAT
+
+/4/foobar.txt.2	0m0,183s	unsat	Yes	Z3
+/4/foobar.txt.2	0m0,021s	unsat	No	Z3
+/4/foobar.txt.2	0m0,022s	unsat	Yes	cvc5
+/4/foobar.txt.2	0m0,022s	unsat	No	cvc5
+/4/foobar.txt.2	0m0,011s	unsat	Yes	mathSAT
+/4/foobar.txt.2	0m0,011s	unsat	No	mathSAT
+
+/4/foobar.txt.3	0m0,048s	unsat	Yes	Z3
+/4/foobar.txt.3	0m0,025s	unsat	No	Z3
+/4/foobar.txt.3	0m0,032s	unsat	Yes	cvc5
+/4/foobar.txt.3	0m0,032s	unsat	No	cvc5
+/4/foobar.txt.3	0m0,017s	unsat	Yes	mathSAT
+/4/foobar.txt.3	0m0,017s	unsat	No	mathSAT
+
+/4/foobar.txt.4	0m0,040s	unsat	Yes	Z3
+/4/foobar.txt.4	0m0,031s	unsat	No	Z3
+/4/foobar.txt.4	0m0,060s	unsat	Yes	cvc5
+/4/foobar.txt.4	0m0,062s	unsat	No	cvc5
+/4/foobar.txt.4	0m0,029s	unsat	Yes	mathSAT
+/4/foobar.txt.4	0m0,030s	unsat	No	mathSAT
+
+/4/foobar.txt.5	0m0,070s	unsat	Yes	Z3
+/4/foobar.txt.5	0m0,039s	unsat	No	Z3
+/4/foobar.txt.5	0m0,092s	unsat	Yes	cvc5
+/4/foobar.txt.5	0m0,093s	unsat	No	cvc5
+/4/foobar.txt.5	0m0,051s	unsat	Yes	mathSAT
+/4/foobar.txt.5	0m0,051s	unsat	No	mathSAT
+
+/4/foobar.txt.6	0m0,071s	unsat	Yes	Z3
+/4/foobar.txt.6	0m0,061s	unsat	No	Z3
+/4/foobar.txt.6	0m0,151s	unsat	Yes	cvc5
+/4/foobar.txt.6	0m0,146s	unsat	No	cvc5
+/4/foobar.txt.6	0m0,109s	unsat	Yes	mathSAT
+/4/foobar.txt.6	0m0,110s	unsat	No	mathSAT
+
+/4/foobar.txt.7	0m0,098s	unsat	Yes	Z3
+/4/foobar.txt.7	0m0,086s	unsat	No	Z3
+/4/foobar.txt.7	0m0,289s	unsat	Yes	cvc5
+/4/foobar.txt.7	0m0,287s	unsat	No	cvc5
+/4/foobar.txt.7	0m0,199s	unsat	Yes	mathSAT
+/4/foobar.txt.7	0m0,199s	unsat	No	mathSAT
+
+/4/foobar.txt.8	0m1,126s	unsat	Yes	Z3
+/4/foobar.txt.8	0m1,110s	unsat	No	Z3
+/4/foobar.txt.8	0m0,768s	unsat	Yes	cvc5
+/4/foobar.txt.8	0m0,738s	unsat	No	cvc5
+/4/foobar.txt.8	0m0,395s	unsat	Yes	mathSAT
+/4/foobar.txt.8	0m0,393s	unsat	No	mathSAT
+
+/4/foobar.txt.9	0m0,460s	unsat	Yes	Z3
+/4/foobar.txt.9	0m0,290s	unsat	No	Z3
+/4/foobar.txt.9	0m2,238s	unsat	Yes	cvc5
+/4/foobar.txt.9	0m2,224s	unsat	No	cvc5
+/4/foobar.txt.9	0m0,801s	unsat	Yes	mathSAT
+/4/foobar.txt.9	0m0,806s	unsat	No	mathSAT
+

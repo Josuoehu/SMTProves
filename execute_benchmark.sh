@@ -46,13 +46,13 @@ execute_file() {
     else
       echo "The file does not exist, try again"
     fi
-    local output=$(echo "$result" | grep real | awk '{print $2}')
-    local time=$(echo "$result" | grep sat | awk '{print $1}')
-    echo -e "$short_file\t$output\t$solver\t$time\t$ackermann" >> "$OUTPUT_TABLE"
+    local time=$(echo "$result" | grep real | awk '{print $2}')
+    local output=$(echo "$result" | grep sat | awk '{print $1}')
+    echo -e "$short_file\t$time\t$output\t$ackermann\t$solver" >> "$OUTPUT_TABLE"
 }
 
 # Main execution
-echo -e "File\tResult\tSolver\tTime\tAckermann" > "$OUTPUT_TABLE"
+echo -e "File\tTime\tResult\tAckermann\tSolver" > "$OUTPUT_TABLE"
 for folder in "$cwd"*; do
   if [ -d "$folder" ]; then
     for file in "$folder"/*; do
